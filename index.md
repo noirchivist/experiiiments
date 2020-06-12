@@ -1,11 +1,8 @@
-## Eperiments in IIIF
+## Experiments in IIIF
 
 Single image with deep zoom
 
 Layering two images with Compariscope
-
-<video controls="controls" video width="1280" height="720">
-    <source src="https://dhsi-iiif.github.io/2019/noirchivist/compariscope2.mp4" type="video/mp4"></video>
 
 <iframe width="100%" height="600" src="https://dhsi-iiif.github.io/2019/noirchivist/compariscope2.mp4?embed=true" title="St Cecilia: from desing to engraving" id="Overlayvideo" allowfullscreen></iframe>
 
