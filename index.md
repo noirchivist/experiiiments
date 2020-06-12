@@ -1,6 +1,10 @@
 ## Experiments in IIIF
 
 <br>
+**Individual image with deep zoom**
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://dhsi-iiif.github.io/2019/noirchivist/designmanifest.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-7989,0,21405,6150" data-rotation="0" style="width:800px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+
+<br>
 **Layering an artist's sketch with a wood engraving using <a href="https://vanda.github.io/iiif-features/compariscope.html?manifest=img/manifest_constable.json">Compariscope</a>. The engraving varies from the original in several places - famously infuriating Rossetti and problematising the identity of the ‘artist’.**
 
 <iframe width="800" height="600" style="border: none" loop="true" src="https://dhsi-iiif.github.io/2019/noirchivist/compariscope2.mp4?embed=true" title="St Cecilia: from design to engraving" id="Overlayvideo" allowfullscreen></iframe>
