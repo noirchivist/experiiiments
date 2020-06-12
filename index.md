@@ -1,11 +1,10 @@
-## A home for experiments in IIIF
+## Eperiments in IIIF
 
 Single image with deep zoom
 
 Layering two images with Compariscope
 
-<iframe width="100%" height="600" src="https://dhsi-iiif.github.io/2019/noirchivist/compariscope2.mp4?embed=true" title="St Cecilia: from desing to engraving"></iframe>
-
+<iframe width="100%" height="600" src="https://dhsi-iiif.github.io/2019/noirchivist/compariscope2.mp4?embed=true" title="St Cecilia: from desing to engraving">id="Overlayvideo" allowfullscreen></iframe>
 
 Zoom journey example using Storiies
 
