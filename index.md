@@ -1,7 +1,5 @@
 ## Experiments in IIIF
 
-Single image with deep zoom
-
 Layering two images with <a href="https://vanda.github.io/iiif-features/compariscope.html?manifest=img/manifest_constable.json">Compariscope</a>
 
 <iframe width="100%" height="600" src="https://dhsi-iiif.github.io/2019/noirchivist/compariscope2.mp4?embed=true" title="St Cecilia: from desing to engraving" id="Overlayvideo" allowfullscreen></iframe>
