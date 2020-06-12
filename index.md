@@ -2,7 +2,7 @@
 
 Individual image with deep zoom
 
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://dhsi-iiif.github.io/2019/noirchivist/designmanifest.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-5346,0,16119,6150" data-rotation="0" style="width:1000px; height:750px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://dhsi-iiif.github.io/2019/noirchivist/designmanifest.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-5346,0,16119,6150" data-rotation="0" style="width:8000px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
 
 Layering two images with <a href="https://vanda.github.io/iiif-features/compariscope.html?manifest=img/manifest_constable.json">Compariscope</a>
 
@@ -14,7 +14,7 @@ Zoom journey example using Storiies
 
 Multiple images structured in a manifest
 
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://dhsi-iiif.github.io/2019/noirchivist/manifest.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="1" data-xywh="-1538,-160,6729,3182" data-rotation="0" style="width:1000px; height:750px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://dhsi-iiif.github.io/2019/noirchivist/manifest.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="1" data-xywh="-1538,-160,6729,3182" data-rotation="0" style="width:800px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
 
 
 
