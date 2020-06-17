@@ -4,10 +4,10 @@
 **Multiple images structured in a manifest.**
 
 <div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://noirchivist.github.io/experiiiments/manifest.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="1" data-xywh="-1538,-160,6729,3182" data-rotation="0" style="width:800px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
-
+test
 <br>
 **Individual image with deep zoom.**
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://dhsi-iiif.github.io/2019/noirchivist/designmanifest.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-7989,0,21405,6150" data-rotation="0" style="width:800px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://noirchivist.github.io/experiiiments/designmanifest.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-7989,0,21405,6150" data-rotation="0" style="width:800px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
 
 <br>
 **Layering an artist's sketch with a wood engraving using <a href="https://vanda.github.io/iiif-features/compariscope.html?manifest=img/manifest_constable.json">Compariscope</a>. The engraving varies from the original in several places - famously infuriating Rossetti and problematising the identity of the ‘artist’.**
