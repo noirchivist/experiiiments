@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://5fedba72-f5a3-4d41-8aca-507a750fe027",
+	"@id": "https://noirchivist.github.io/experiiiments/testletters.json",
 	"@type": "sc:Manifest",
 	"label": "Two test letters from Edward Thomas",
 	"metadata": [],
