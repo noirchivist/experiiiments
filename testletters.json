@@ -24,7 +24,7 @@
 			],
 			"canvases": [
 				{
-					"@id": "http://eae5b5e5-d8fa-4cd0-bac9-31d31e4431d9",
+					"@id": "https://noirchivist.github.io/experiiiments/424-1-1-1-10-001",
 					"@type": "sc:Canvas",
 					"label": "Letter 1",
 					"height": 5232,
@@ -32,7 +32,7 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://5747bbba-69f4-492b-9063-e559d5a4964e",
+							"@id": "https://noirchivist.github.io/experiiiments/424-1-1-1-10-001",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -53,7 +53,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://783057a2-252d-4c83-aa5d-a3bcff336805",
+					"@id": "https://noirchivist.github.io/experiiiments/424-1-1-1-10-002",
 					"@type": "sc:Canvas",
 					"label": "Letter 2",
 					"height": 3671,
@@ -61,7 +61,7 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://d225886a-eacd-4aa6-b431-9be16e11d279",
+							"@id": "https://noirchivist.github.io/experiiiments/424-1-1-1-10-002",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
