@@ -17,7 +17,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 3474,
-  "@id" : "https://noirchivist.github.io/experiiiments//424-1-1-1-10-001",
+  "@id" : "https://noirchivist.github.io/experiiiments/424-1-1-1-10-001",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 5232
 }
