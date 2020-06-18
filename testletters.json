@@ -1,0 +1,92 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://4a42d289-764b-4682-9a1e-43c983be15d6",
+	"@type": "sc:Manifest",
+	"label": "Two letters from Edward Thomas to Gordon Bottomley",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Cardiff University Special Collections and Archives",
+	"sequences": [
+		{
+			"@id": "http://3a9fea07-e2a2-4a6b-ad90-e00df09d50ba",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://a7219d54-397d-4f60-9ff8-d7543ceeea48",
+					"@type": "sc:Canvas",
+					"label": "30 Sep 1902",
+					"height": 5232,
+					"width": 3474,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://96d71b88-f091-48fd-854f-c4542dec0d73",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/424-1-1-1-10-001$424-1-1-1-10-001.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/424-1-1-1-10-001$424-1-1-1-10-001.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 5232,
+								"width": 3474
+							},
+							"on": "http://a7219d54-397d-4f60-9ff8-d7543ceeea48"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://8e279649-53ff-4e59-8cab-b189aab9d400",
+					"@type": "sc:Canvas",
+					"label": "17 Oct 1902",
+					"height": 3671,
+					"width": 2392,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://afd8b84d-bda8-4616-a2db-bb2ea746767d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/424-1-1-1-10-002$424-1-1-1-10-002.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/424-1-1-1-10-002$424-1-1-1-10-002.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3671,
+								"width": 2392
+							},
+							"on": "http://8e279649-53ff-4e59-8cab-b189aab9d400"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
