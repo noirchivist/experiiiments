@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://noirchivist.github.io/experiiiments/testletters/info.json",
+	"@id": "http://4a42d289-764b-4682-9a1e-43c983be15d6",
 	"@type": "sc:Manifest",
 	"label": "Two letters from Edward Thomas to Gordon Bottomley",
 	"metadata": [],
