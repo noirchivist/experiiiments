@@ -1,6 +1,31 @@
 ## Experiments in IIIF
 
 <br>
+**Test**
+import mirador from "mirador";
+
+let params = new URL(document.location).searchParams;
+let manifest =
+  params.get("manifest") ||
+  "https://noirchivist.github.io/experiiiments/manifest.json";
+
+var miradorInstance = mirador.viewer({
+  id: "app", // id selector where Mirador should be instantiated
+  windows: [
+    {
+      manifestId: manifest
+    }
+  ],
+  window: {
+    allowClose: false,
+    allowMaximize: false
+  },
+  workspaceControlPanel: {
+    enabled: false
+  }
+});
+
+<br>
 **Multiple images structured in a manifest.**
 
 <div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://noirchivist.github.io/experiiiments/manifest.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="1" data-xywh="-1538,-160,6729,3182" data-rotation="0" style="width:800px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
