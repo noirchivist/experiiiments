@@ -3,7 +3,7 @@
 <br>
 **Multiple images structured in a manifest.**
 
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://noirchivist.github.io/experiiiments/hollar.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="1" data-xywh="-1538,-160,6729,3182" data-rotation="0" style="width:800px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://noirchivist.github.io/experiiiments/hollar1644.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="1" data-xywh="-1538,-160,6729,3182" data-rotation="0" style="width:800px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
 
 <br>
 **Multiple images structured in a manifest.**
