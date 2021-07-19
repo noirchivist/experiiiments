@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://b8b18c94-6382-4822-aa25-c3f6b8b2f8ec",
+	"@id": "https://noirchivist.github.io/experiiiments/aberdare.json",
 	"@type": "sc:Manifest",
 	"label": "[Click to edit label]",
 	"metadata": [],
