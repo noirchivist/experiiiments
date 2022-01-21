@@ -30,5 +30,5 @@
 <iframe width="800" height="600" style="border: none" loop="true" src="https://noirchivist.github.io/experiiiments/mirador.mp4?embed=true" title="Comparing differences between design and engraving" id="Overlayvideo" allowfullscreen="true"></iframe>
 
 **Storiiies test**
-<iframe width="100%" height="600" src="https://storiiies.cogapp.com/viewer/312ug/test?embed=true" title="test"></iframe>
+<iframe width="100%" height="600" src="https://storiiies.cogapp.com/viewer/ad2uh/The-emigrants-friend-containing-information-and-advice-for-persons-intending-to-emigrate-to-the-United-States?embed=true" title="The emigrant's friend : containing information and advice for persons intending to emigrate to the United States"></iframe>
 
